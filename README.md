@@ -13,6 +13,6 @@ Add Colors
 AddIGNs on join
 
 #DONATE
-paypal:
+paypal: PayPal.Me/BobDeposit
 
 # First PLUgin
